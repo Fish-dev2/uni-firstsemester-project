@@ -1,0 +1,14 @@
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.exe
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.deps.json
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.runtimeconfig.json
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.runtimeconfig.dev.json
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.dll
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\bin\Debug\netcoreapp3.1\Feleves_HAZI_NEW.pdb
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.csproj.AssemblyReference.cache
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.AssemblyInfoInputs.cache
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.AssemblyInfo.cs
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.csproj.CoreCompileInputs.cache
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.dll
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.pdb
+C:\Users\capnf\source\repos\Feleves_HAZI_NEW\Feleves_HAZI_NEW\obj\Debug\netcoreapp3.1\Feleves_HAZI_NEW.genruntimeconfig.cache

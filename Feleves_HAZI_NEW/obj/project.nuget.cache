@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GSGl0CYuSppXKzBjYbo1vFet0LScWFHeAG39iDM4VjaLQN3oJYIs7M2xkVQb6WWF87uXzWLti3slaFdlDO3QRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\capnf\\source\\repos\\Feleves_HAZI_NEW\\Feleves_HAZI_NEW\\Feleves_HAZI_NEW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\capnf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
